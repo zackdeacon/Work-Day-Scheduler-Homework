@@ -1,3 +1,3 @@
 # Work-Day-Scheduler-Homework
 
-![](../assets
+![](../assets/Work-Day-Scheduler-Homework.jpeg)
