@@ -1,5 +1,6 @@
 Here is the link to my repo: https://github.com/zackdeacon/Work-Day-Scheduler-Homework
-Here is the link to the deployed page: 
+
+Here is the link to the deployed page: https://zackdeacon.github.io/Work-Day-Scheduler-Homework
 
 I created a schedule planner that will change color dependant on the time of day, it will grey out the input fields if its past that time and color them green if that time is in the future. The current time will be red. 
 
